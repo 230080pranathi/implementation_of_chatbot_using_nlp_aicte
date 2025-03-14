@@ -50,8 +50,8 @@ This project focuses on building an intelligent chatbot using Natural Language P
 5. **Deployment:** Deploy the chatbot using Streamlit for a web-based UI.
 
 ## Screenshots
-![Screenshot 2025-03-14 203431](https://github.com/user-attachments/assets/3ab80d5a-b139-4f61-80b1-50e83880936c)
 ![image](https://github.com/user-attachments/assets/fe7eef86-edd5-4b11-9d4f-60cc2f8c626f)
+![Screenshot 2025-03-14 203431](https://github.com/user-attachments/assets/3ab80d5a-b139-4f61-80b1-50e83880936c)
 
 
 
