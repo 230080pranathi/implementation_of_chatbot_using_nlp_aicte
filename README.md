@@ -49,7 +49,7 @@ This project focuses on building an intelligent chatbot using Natural Language P
 4. **Testing & Validation:** Evaluate the chatbot's accuracy and fine-tune the model.
 5. **Deployment:** Deploy the chatbot using Streamlit for a web-based UI.
 
-##Screenshots
+## Screenshots
 ![Screenshot 2025-03-14 203431](https://github.com/user-attachments/assets/3ab80d5a-b139-4f61-80b1-50e83880936c)
 
 
